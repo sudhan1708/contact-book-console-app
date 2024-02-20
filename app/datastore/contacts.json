@@ -1,0 +1,44 @@
+[
+    {
+        "name": "akash",
+        "email": "akash@gmail.com",
+        "phone": "7509485769",
+        "address": "Kamarajar salai,Madurai - 625009",
+        "tag": "friend"
+    },
+    {
+        "name": "kartik",
+        "email": "kartik@gmail.com",
+        "phone": "9584938402",
+        "address": "bangalore",
+        "tag": ""
+    },
+    {
+        "name": "prasanth",
+        "email": "prasanth@gmail.com",
+        "phone": "7047348759",
+        "address": "adugodi,bengaluru",
+        "tag": "friend"
+    },
+    {
+        "name": "rohit",
+        "email": "rohit@gmail.com",
+        "phone": "8739463912",
+        "address": "mumbai-099799",
+        "tag": "friend"
+    },
+    {
+        "name": "saidhanya",
+        "email": "saidhany@gmail.com",
+        "phone": "8947475891",
+        "address": "hebbagodi",
+        "tag": "friend"
+    },
+    {
+        "name": "sudhan",
+        "email": "sudhan@gmail.com",
+        "phone": "8765498765",
+        "address": "hebbal,bengaluru",
+        "tag": "friend"
+    }
+]
